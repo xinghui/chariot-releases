@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xinghui/chariot/main/icon.png" width="128" alt="Chariot Icon">
+  <img src="icon.png" width="128" alt="Chariot Icon">
 </p>
 
 # Chariot
